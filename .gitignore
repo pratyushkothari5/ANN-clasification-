@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.conda/
+
+# Generated TensorBoard logs
+logs/
+regressionlogs/
+
+# Notebook runtime checkpoints
+.ipynb_checkpoints/
